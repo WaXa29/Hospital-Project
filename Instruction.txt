@@ -1,0 +1,17 @@
+For program to start press Ctrl + F5
+
+For Login
+
+Username: user1
+Password: 12345
+
+
+* Text Files are saved in debug folder 
+  so that when we share this software to
+  other they don't have to create the 
+  text file and manually change the 
+  address of the file of each classes 
+  in the code
+
+
+**********Thankyou***********
